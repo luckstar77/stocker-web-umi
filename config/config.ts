@@ -117,6 +117,12 @@ export default {
               component: './Welcome',
             },
             {
+              path: '/dividend',
+              name: 'dividend',
+              icon: 'stock',
+              component: './dividend',
+            },
+            {
               component: './404',
             },
           ],

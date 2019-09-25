@@ -1,4 +1,6 @@
 export default {
+  'menu.stock': '股票',
+  'menu.dividend': '股利',
   'menu.welcome': '欢迎',
   'menu.more-blocks': '更多区块',
   'menu.home': '首页',
